@@ -57,5 +57,5 @@ This repository contains a collection of Data Structures and Algorithms implemen
 
 # Heap.  
 1.[Min Heap Implementation](Heap.js).  
-2.Max Heap Implementation3.Heap sort.  
+2.Max Heap Implementation.    
 3.Heapsort.  
